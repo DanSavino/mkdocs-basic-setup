@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>None./</loc>
+         <lastmod>2023-02-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="None./"/>
+         
+    </url>
+    <url>
+         <loc>Nonereasons/reasons/</loc>
+         <lastmod>2023-02-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/reasons/reasons/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Nonereasons/reasons/"/>
+         
+    </url>
+    <url>
+         <loc>Nonesetup/extensions/</loc>
+         <lastmod>2023-02-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/setup/extensions/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Nonesetup/extensions/"/>
+         
+    </url>
+    <url>
+         <loc>Nonesetup/setup/</loc>
+         <lastmod>2023-02-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/setup/setup/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Nonesetup/setup/"/>
+         
+    </url>
+</urlset>
