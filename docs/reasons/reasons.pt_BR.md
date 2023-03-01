@@ -14,8 +14,3 @@ MkDocs é um gerador de site estático que pode ser usado para criar documentaç
 - **Documentações padronizadas**: O MkDocs é utilizado por inumeras aplicações. Como por exemplo, FastApi, Starlett, a propria MkDocs e suas extensões e plugins de terceiros usam a ferramenta para criar suas documentações.
 
 No geral, o MkDocs é uma ferramenta poderosa que pode ajudar uma equipe de análise a criar e manter mais facilmente documentação precisa e atualizada para seus projetos. Facilita a colaboração e a organização da documentação e também facilita a visualização e o controle de versão.
-
-#
-# Configuração básica
-
-Para uma configuração básica passo a passo, vá para [Basic Mkdocs Setup](/docs/setup/setup.pt_BR.md)

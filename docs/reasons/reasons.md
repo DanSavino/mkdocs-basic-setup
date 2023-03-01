@@ -11,11 +11,6 @@ MkDocs is a static site generator that can be used to create documentation for s
 
 - **Easy to use**: MkDocs is easy to use and requires minimal setup. This allows team members to start creating documentation quickly, without needing to spend a lot of time on setup and configuration.
 
-- **Standardized documentation**:  MkDocs is used by many applications. For example, FastApi, Starlett, MkDocs itself and its third-party extensions and plugins use the tool to create their documentation.
+- **Standard documentation**:  MkDocs is used by many applications. For example, FastApi, Starlett, MkDocs itself and its third-party extensions and plugins use the tool to create their documentation.
 
 Overall, MkDocs is a powerful tool that can help an analytics team to more easily create and maintain accurate, up-to-date documentation for their projects. It makes it easy to collaborate and organize documentation and also allows for easy previewing and version control.
-
-#
-# Basic setup
-
-For a basic setup step-by-step go to [Basic Mkdocs Setup](/docs/setup/setup.md)

@@ -1,7 +1,5 @@
 # Welcome to MkDocs
 
-# ADD HOW TO TRANSLATE AND ERROR    -  Config value 'plugins': The "i18n" plugin is not installed
-
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands

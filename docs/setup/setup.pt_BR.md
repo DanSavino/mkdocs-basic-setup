@@ -98,7 +98,8 @@ nav:
     - Configuração básica do Mkdocs: setup.md
     # - Nome da aba: $pathtofile
 ```
-Para editar e criar sua página, abra o *arquivo md* e inicie sua documentação seguindo o padrão de linguagem markdown. PS: Você pode adicionar extensões para adicionar recursos. Para isso, vá para [Configuração de extensões](./extensions.pt_BR.md)
+Para editar e criar sua página, abra o *arquivo md* e inicie sua documentação seguindo o padrão de linguagem markdown. <br>
+PS: Você pode adicionar extensões para adicionar recursos. Para isso, vá para [Configuração de extensões](./extensions.pt_BR.md)
 
 !!! Warning
     Ao usar:

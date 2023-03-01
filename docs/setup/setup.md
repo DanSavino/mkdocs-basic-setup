@@ -55,7 +55,7 @@ This will start your mkdocs application on the current folder.
 
 ## 4. Choosing your theme
 
-For some theme templates and futher configuration go to [MkDocs-Themes](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes)
+For some theme templates and further configuration go to [MkDocs-Themes](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes)
 
 This website theme is [MkDocs-Material](https://squidfunk.github.io/mkdocs-material/)
 
@@ -71,11 +71,20 @@ Open mkdocs.yml file.
 ??? info 
     This file was created on the previous step (  "mkdocs new . "  )
 ```yaml
-site_name: Basic MKdocs Setup
+site_name: Basic Mkdocs Setup
 
 theme:
-    name: material 
+    name: material # (1)!
 ```
+
+1.  Themes also have features installed. In order to add them simply add a feature line in the yaml file.
+    ``` yaml
+    theme:
+        name: material
+        features:
+            -feature1
+            -feature2   
+    ```
 
 ## 5. Making your page available in dark mode and light mode (Optional)
 Open the mkdocs.yml file and add a palette scheme inside theme.
@@ -102,7 +111,8 @@ For more options go to [Color-Scheme](https://squidfunk.github.io/mkdocs-materia
 
 To create more contents for your documation simply create a MarkDown(md) file. 
 
-In order to edit and create your page open the *md file* and start your documentation following the markdown language pattern. PS: You can add extensions to add features. For that go to the [Extensions Setup](./extensions.md)
+In order to edit and create your page open the *md file* and start your documentation following the markdown language pattern. <br>
+PS: You can add extensions to add features. For that go to the [Extensions Setup](./extensions.md)
 
 !!! Warning 
     When using :

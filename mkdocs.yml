@@ -8,6 +8,17 @@ nav:
   - Setup:
       - Basic Mkdocs Setup: setup/setup.md
       - Extensions Setup: setup/extensions.md
+      - Plugins Setup: setup/plugins.md 
+      - Deploy Setup: setup/deployment.md
+  - Raw Pages:
+      - Mkdocs yaml file: raw/mkdocs.md
+      - Reasons file: raw/raw_reasons.md
+      - Setup pages:
+        - Basic Setup file: raw/raw_setup.md
+        - Extensions file: raw/raw_exten.md
+        - Plugin file: raw/raw_plugins.md
+        - Deploy file: raw/deploy.md
+
 
 repo_name: dansavino/mkdocs-basic-setup
 repo_url: https://github.com/dansavino/mkdocs-basic-setup
@@ -15,6 +26,7 @@ repo_url: https://github.com/dansavino/mkdocs-basic-setup
 theme:
   name: material
   logo: assets/logo.svg
+  favicon: assets/favicon.png
   language: en
   features:
     - navigation.footer
