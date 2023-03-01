@@ -89,15 +89,6 @@ Para mais opções, vá para [Esquema de cores](https://squidfunk.github.io/mkdo
 
 Para criar mais conteúdo para sua documentação, basta criar um arquivo MarkDown(md).
 
-Você pode definir sua página inicial e também as páginas e a ordem que serão exibidas no lado esquerdo da documentação.
-
-Para isso abra seu arquivo mkdocs.yml e defina os seguintes padrões:
-```yaml
-nav:
-    - Razões para usar o Mkdocs: index.md
-    - Configuração básica do Mkdocs: setup.md
-    # - Nome da aba: $pathtofile
-```
 Para editar e criar sua página, abra o *arquivo md* e inicie sua documentação seguindo o padrão de linguagem markdown. <br>
 PS: Você pode adicionar extensões para adicionar recursos. Para isso, vá para [Configuração de extensões](./extensions.pt_BR.md)
 

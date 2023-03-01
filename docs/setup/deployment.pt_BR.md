@@ -10,7 +10,10 @@ Depois que sua pagina estiver pronta. Adicione seu projeto em um repositorio no 
     ```
     mkdocs gh-deploy
     ```
-5. A documentação ficará disponivel dentro de minutos em https://{usuario-github}.github.io/{repositorio}
+5. A documentação ficará disponivel dentro de minutos em 
+    ```
+    https://{usuario-github}.github.io/{repositorio}
+    ```
 
 !!! warning 
     Se seu comando mkdocs gh-deploy foi executado com sucesso e sua paginá ainda está offline.

@@ -11,7 +11,10 @@ This webpage deployment.md file.
         ```
         mkdocs gh-deploy
         ```
-    5. Your documentation will be available in a couple minutes on https://{your-github-user}.github.io/{repositorie}
+    5. Your documentation will be available in a couple minutes on 
+        ```
+        https://{your-github-user}.github.io/{repositorie}
+        ```
 
     !!! warning 
         If mkdocs gh-deploy ran successfully and your page is not online.
