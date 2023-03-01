@@ -2,31 +2,95 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
          <loc>None./</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-01</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/"/>
          <xhtml:link rel="alternate" hreflang="en" href="None./"/>
          
     </url>
     <url>
+         <loc>Noneraw/deploy/</loc>
+         <lastmod>2023-03-01</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/raw/deploy/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneraw/deploy/"/>
+         
+    </url>
+    <url>
+         <loc>Noneraw/mkdocs/</loc>
+         <lastmod>2023-03-01</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/raw/mkdocs/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneraw/mkdocs/"/>
+         
+    </url>
+    <url>
+         <loc>Noneraw/raw_exten/</loc>
+         <lastmod>2023-03-01</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/raw/raw_exten/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneraw/raw_exten/"/>
+         
+    </url>
+    <url>
+         <loc>Noneraw/raw_plugins/</loc>
+         <lastmod>2023-03-01</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/raw/raw_plugins/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneraw/raw_plugins/"/>
+         
+    </url>
+    <url>
+         <loc>Noneraw/raw_reasons/</loc>
+         <lastmod>2023-03-01</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/raw/raw_reasons/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneraw/raw_reasons/"/>
+         
+    </url>
+    <url>
+         <loc>Noneraw/raw_setup/</loc>
+         <lastmod>2023-03-01</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/raw/raw_setup/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneraw/raw_setup/"/>
+         
+    </url>
+    <url>
          <loc>Nonereasons/reasons/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-01</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/reasons/reasons/"/>
          <xhtml:link rel="alternate" hreflang="en" href="Nonereasons/reasons/"/>
          
     </url>
     <url>
+         <loc>Nonesetup/deployment/</loc>
+         <lastmod>2023-03-01</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/setup/deployment/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Nonesetup/deployment/"/>
+         
+    </url>
+    <url>
          <loc>Nonesetup/extensions/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-01</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/setup/extensions/"/>
          <xhtml:link rel="alternate" hreflang="en" href="Nonesetup/extensions/"/>
          
     </url>
     <url>
+         <loc>Nonesetup/plugins/</loc>
+         <lastmod>2023-03-01</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/setup/plugins/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Nonesetup/plugins/"/>
+         
+    </url>
+    <url>
          <loc>Nonesetup/setup/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-01</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/setup/setup/"/>
          <xhtml:link rel="alternate" hreflang="en" href="Nonesetup/setup/"/>
